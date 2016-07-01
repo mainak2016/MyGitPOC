@@ -2,5 +2,4 @@ Red
 
 Blue
 Pink
-Black
-Yellow
+
